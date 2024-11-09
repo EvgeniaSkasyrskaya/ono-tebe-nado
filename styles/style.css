@@ -65,7 +65,7 @@
     z-index: -1;
     margin-bottom: 179px;
     padding: 161px 50px 51px;
-    background-image: url('../images/cover.jpg');
+    background-image: url('./images/cover.jpg');
     background-position: center;
     background-size: cover;
   }
@@ -101,9 +101,9 @@
     
   .aligned-text-right {
     line-height: 99%;
-    text-align: right; 
-  }    
-
+    text-align: right;
+  }
+    
   .letter-spacing-extended {
     letter-spacing: 60px;
   }
